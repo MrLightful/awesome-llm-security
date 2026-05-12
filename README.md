@@ -57,6 +57,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social) [**Cerberus**](https://github.com/Odingard/cerberus) Agentic AI runtime security platform
 - ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social) [**clawguard**](https://github.com/NeuZhou/clawguard) Firewall for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 
