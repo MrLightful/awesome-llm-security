@@ -123,6 +123,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture.
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [**Aigis**](https://github.com/killertcell428/aigis): Zero-dependency Python firewall for AI agents. 180+ patterns across OWASP LLM Top 10, StruQ-style structured prompts, goal-conditioned FSM, RAG context filter, MCP 3-stage scanning, MemoryGraft defence, judge-manipulation detection. Multi-layer: 4 walls + L4-L7 capability/AEP/safety/FSM. ![GitHub stars](https://img.shields.io/github/stars/killertcell428/aigis?style=social)
+- [**OWASP Agent Memory Guard**](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 
 ---
 
@@ -229,4 +230,4 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date" />
   </picture>
 </a>
-- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — OWASP reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory with SHA-256 integrity baselines, prompt injection detection, and YAML policy enforcement. Merged into UK Government BEIS inspect_evals. `pip install agent-memory-guard`
+
