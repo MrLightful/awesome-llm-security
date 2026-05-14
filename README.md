@@ -1,8 +1,6 @@
 
 # 🤖 Awesome LLM Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome tools, documents, and projects about LLM Security.
-
 ---
 
 ## 📚 Table of Contents
@@ -49,15 +47,13 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social) [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security) Curated list of MCP security resources
 - ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social) [**MCP Shield**](https://github.com/riseandignite/mcp-shield) Security scanner for MCP servers
 - ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) [**Invariant**](https://github.com/invariantlabs-ai/invariant) Trace analysis tool for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social) [**Agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules) Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social) [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) Automated MCP safety auditing and remediation using Agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social) [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp) MCP server for scanning code for web vulnerabilities, prompt injection, and AI-hallucinated package detection
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social) [**Agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules) Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo) Capability-based authorization for AI agents
 - ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) LLM agent security resources, attacks, vulnerabilities
-- ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social) [**Cerberus**](https://github.com/Odingard/cerberus) Agentic AI runtime security platform
-- ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social) [**clawguard**](https://github.com/NeuZhou/clawguard) Firewall for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
+- ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 
@@ -76,8 +72,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/verazuo/jailbreak_llms?color=gold) [**Jailbreak LLMs**](https://github.com/verazuo/jailbreak_llms): Real-world prompt jailbreak dataset (15k+ examples).
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs?color=gold) [**Awesome Jailbreak LLMs**](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs): Collection of jailbreak techniques, datasets, and defenses.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/patrickrchao/JailbreakingLLMs?color=gold) [**Jailbreaking LLMs (PAIR)**](https://github.com/patrickrchao/JailbreakingLLMs): Black-box jailbreak generation via automatic prompt refinement.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social) [**Prompt Fuzzer**](https://github.com/prompt-security/ps-fuzz): Open-source tool to help you harden your GenAI applications.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social) [**Open Prompt Injection**](https://github.com/liu00222/Open-Prompt-Injection): Tool to evaluate prompt injection attacks and defenses on benchmark datasets.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/ps-fuzz?style=social) [**Prompt Fuzzer**](https://github.com/prompt-security/ps-fuzz): Harden your GenAI applications.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social) [**Open Prompt Injection**](https://github.com/liu00222/Open-Prompt-Injection): Evaluate prompt injection attacks and defenses on benchmark datasets.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social) [**LLMFuzzer**](https://github.com/mnns/LLMFuzzer): Fuzzing framework for LLM prompt generation.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?color=gold) [**Spikee**](https://github.com/ReversecLabs/spikee): Prompt injection toolkit.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social) [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation.
@@ -112,18 +108,18 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social) [**Vigil**](https://github.com/deadbits/vigil-llm): Prompt injection detection toolkit and REST API for LLM security risk scoring.
 - ![GitHub stars](https://img.shields.io/github/stars/safellama/plexiglass?style=social) [**Plexiglass**](https://github.com/safellama/plexiglass): Security tool for LLM applications
 - ![GitHub Repo stars](https://img.shields.io/github/stars/arekusandr/last_layer?style=social) [**Last Layer**](https://github.com/arekusandr/last_layer): Low-latency pre-filter for prompt injection prevention.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ArseniiBrazhnyk/Veritensor?style=social) [**Veritensor**](https://github.com/ArseniiBrazhnyk/Veritensor): AI model scanner to detect Pickle/PyTorch malware, check licenses, and verify HF hashes.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jnMetaCode/shellward?style=social) [**ShellWard**](https://github.com/jnMetaCode/shellward): AI Agent security middleware
-- ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability tokens for AI agents with task-scoped TTLs, offline verification, and proof-of-possession binding
-- ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
-- ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social) [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Tool for ensuring confidentiality in LLMs
 - ![GitHub stars](https://img.shields.io/github/stars/KOKOSde/localmod?style=social) [**LocalMod**](https://github.com/KOKOSde/localmod): Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW filtering
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social) [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): 11-tool defensive security suite for AI agent workspaces (prompt injection defense, integrity verification, secret scanning, supply chain analysis). Pure Python stdlib, zero dependencies, local-only execution.
-- [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer for AI agents that blocks unsafe actions before execution, enforces MACI separation of powers, and keeps tamper-evident audit trails. ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ArseniiBrazhnyk/Veritensor?style=social) [**Veritensor**](https://github.com/ArseniiBrazhnyk/Veritensor): AI model scanner to detect Pickle/PyTorch malware, check licenses, and verify HF hashes.
+- ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability tokens for AI agents with task-scoped TTLs, offline verification, and proof-of-possession binding
+- ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social) [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Tool for ensuring confidentiality in LLMs
+- ![GitHub stars](https://img.shields.io/github/stars/killertcell428/aigis?style=social) [**Aigis**](https://github.com/killertcell428/aigis): Zero-dependency Python firewall for AI agents. 180+ patterns across OWASP LLM Top 10, StruQ-style structured prompts, goal-conditioned FSM, RAG context filter, MCP 3-stage scanning, MemoryGraft defence, judge-manipulation detection. Multi-layer: 4 walls + L4-L7 capability/AEP/safety/FSM. 
+- ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social) [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): Defensive security suite for AI agent workspaces (prompt injection, integrity verification, secret scanning, supply chain analysis). 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer for AI agents that blocks unsafe actions before execution, enforces MACI separation of powers, and keeps tamper-evident audit trails. 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture.
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
-- [**Aigis**](https://github.com/killertcell428/aigis): Zero-dependency Python firewall for AI agents. 180+ patterns across OWASP LLM Top 10, StruQ-style structured prompts, goal-conditioned FSM, RAG context filter, MCP 3-stage scanning, MemoryGraft defence, judge-manipulation detection. Multi-layer: 4 walls + L4-L7 capability/AEP/safety/FSM. ![GitHub stars](https://img.shields.io/github/stars/killertcell428/aigis?style=social)
-- [**OWASP Agent Memory Guard**](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 
 ---
 
@@ -132,9 +128,9 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**JailbreakBench**](https://jailbreakbench.github.io/): Evaluating and analyzing jailbreak methods for LLMs
 - ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/L1B3RT45?style=social) [**L1B3RT45**](https://github.com/elder-plinius/L1B3RT45/): AI jailbreaking tools
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**Easy Jailbreak**](https://github.com/EasyJailbreak/EasyJailbreak): Python framework to generate adversarial jailbreak prompts
+- ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 - ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
-- ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 
 ---
 
@@ -153,8 +149,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?style=social) [**Damn Vulnerable LLM Agent**](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/R3dShad0w7/PromptMe?style=social) [**PromptMe**](https://github.com/R3dShad0w7/PromptMe)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
-- [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/PwnzzAI?style=social) [**PwnzzAI**](https://github.com/OWASP/PwnzzAI) OWASP LLM ToP 10 vulnerabilities
+- [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
 
 ---
 
