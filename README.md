@@ -35,7 +35,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social) [**LLaMator**](https://github.com/RomiconEZ/LLaMator) Framework for testing vulnerabilities of LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social) [**Plexiglass**](https://github.com/kortex-labs/plexiglass) Security toolbox for testing and safeguarding LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social) [**Inkog**](https://github.com/inkog-io/inkog) AI agent security scanner (CLI + MCP server) detects prompt injection, SQLi via LLM
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/llm-security-scanner?style=social) [**llm-security-scanner**](https://github.com/tugkanboz/llm-security-scanner) Prompt injection with OWASP LLM Top 10 and Turkish payloads
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/llm-security-scanner?style=social) [**LLM Security Scanner**](https://github.com/tugkanboz/llm-security-scanner) Prompt injection with OWASP LLM Top 10 and Turkish payloads
 
 ---
 
@@ -47,7 +47,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social) [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security) Curated list of MCP security resources
 - ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social) [**MCP Shield**](https://github.com/riseandignite/mcp-shield) Security scanner for MCP servers
 - ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) [**Invariant**](https://github.com/invariantlabs-ai/invariant) Trace analysis tool for AI agents
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social) [**Agent Threat Rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules) Detection rule standard for AI agent threats (e.g., prompt injection and MCP attacks)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social) [**Agent Threat Rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules) Detection rule standard for AI threats (e.g., prompt injection and MCP attacks)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social) [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) Automated MCP safety auditing and remediation using Agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social) [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp) MCP server for scanning code for web vulnerabilities, prompt injection, and AI-hallucinated package detection
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo) Capability-based authorization for AI agents
@@ -76,7 +76,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social) [**Open Prompt Injection**](https://github.com/liu00222/Open-Prompt-Injection): Evaluate prompt injection attacks and defenses on benchmark datasets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social) [**LLMFuzzer**](https://github.com/mnns/LLMFuzzer): Fuzzing framework for LLM prompt generation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?color=gold) [**Spikee**](https://github.com/ReversecLabs/spikee): Prompt injection toolkit
-- ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social) [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social) [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation
 
 ---
 
@@ -90,7 +90,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social) [**PentestAgent**](https://github.com/GH05TCREW/pentestagent)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) [**Raptor**](https://github.com/gadievron/raptor)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social) [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social) [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social) [**BreachSeek - PENA**](https://github.com/snow10100/pena)
 
@@ -192,7 +192,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social) [**WhistleBlower**](https://github.com/Repello-AI/whistleblower): Infer the system prompt of an AI agent based on its generated text outputs.
 - [**LLM Security startups**](https://github.com/rushout09/llm-security-startups)
 - [**LLM Security Problems at DEFCON31 Quals**](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): The world's top security competition
-- [**0din GenAI Bug Bounty from Mozilla**](https://0din.ai): GenAI models vulnerabilities (prompt injection, training data poisoning, DoS)
+- [**0din GenAI Bug Bounty from Mozilla**](https://0din.ai): GenAI models threats (prompt injection, training data poisoning, DoS)
 - [**Adversarial Prompting**](https://www.promptingguide.ai/risks/adversarial): Documentation
 - [**OWASP Top 10 for LLMs**](https://owasp.org/www-project-top-10-for-large-language-model-applications/): Official list of key LLM risks including prompt injection
 
