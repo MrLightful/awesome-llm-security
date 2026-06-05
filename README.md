@@ -56,7 +56,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
-- ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/futureagi-mcp-server?style=social) [**futureagi-mcp-server**](https://github.com/future-agi/futureagi-mcp-server) Open-source Future AGI MCP server exposing evals (50+ metrics), datasets, synthetic data, and runtime guardrails (Toxicity, Tone, Sexism, Prompt Injection, Data Privacy). Python, `uvx futureagi-mcp-server`
 
 ---
 
@@ -122,8 +121,8 @@
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
-- ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social) [**ai-evaluation**](https://github.com/future-agi/ai-evaluation): Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support
-- ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social) [**traceAI**](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in
+- ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social) [**ai-evaluation**](https://github.com/future-agi/ai-evaluation): Guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines
+- ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social) [**traceAI**](https://github.com/future-agi/traceAI): Tracing for LLM and agent apps
 
 ---
 
